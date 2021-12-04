@@ -1,0 +1,42 @@
+header {
+    background-color: #FF4364;
+    color: white;
+    
+}
+header img {
+    width: 50px;
+    height: 50px;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1,h2,h3,h4 {
+    text-align: center;
+}
+main a {
+    border: 3px solid #DC143C;
+    border-radius: 8px;
+    
+    padding: 5px;
+    font-size: 25px; 
+}
+a {
+    text-decoration: none;
+}
+table img {
+    width: 580px;
+    border:4px dotted orangered;
+  
+}
+header a {
+    color: whitesmoke;
+    font-size: 20px;
+}
+table {
+    font-size: 20px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
